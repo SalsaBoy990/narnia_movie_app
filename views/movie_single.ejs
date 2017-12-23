@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <% include partials/head.ejs %>
+</head>
+<body>
+    <% include partials/header.ejs %>
+    <div id="hero-image-single" style="background: url('/images/<%= movie.hero_image %>')">
+        <h1 id="hero-title"><%= title %></h1>
+    </div>
+
+    <div class="content-padding clearfix">
+        
+        <div class="poster-wrapper">
+            <img src="/images/<%= movie.poster %>" class="img-responsive">
+        </div>
+        <div class="description-wrapper">
+            <div class="description">
+                <h2 class="movie-header">Leírás</h2>
+                <p style="font-size: 16px;"><%= movie.description %></p>
+            </div>
+
+            <div class="main-characters">
+                <h2 class="movie-header">Főszereplők</h2>
+                <ul style="font-size: 16px;">
+                    <% for ( var i = 0; i < main_characters.length; i++) {%>
+                        <li><%= main_characters[i] %></li>
+                    <% } %>
+                </ul>
+            
+            </div>
+        </div>
+    </div>
+
+    <% include partials/footer.ejs %>
+    <% include partials/scripts.ejs %>
+
+    </div>
+</body>
+</html>

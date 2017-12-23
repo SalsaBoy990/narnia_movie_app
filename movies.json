@@ -1,0 +1,34 @@
+{
+    "movies": [{
+      "title" : "Narnia krónikái: Az oroszlán, a boszorkány és a ruhásszekrény",
+      "episode_number" : "1",
+      "year" : "2005",
+      "duration" : "143",
+      "main_characters" : ["Peter Pevensie", "Susan Pevensie", "Edmund Pevensie", "Lucy Pevensie", "Mr. Tumnus", "Jadis, fehér boszorkány", "Aslan"],
+      "description" : "A második világháború idején a Pevensie-gyerekeket vidékre küldik a németek bombázta Londonból. Peter, Susan, Edmund és Lucy a hóbortos Digory Kirke professzornál talál menedéket. Egyik nap Lucy, játék közben elbújik a hatalmas szekrényben, és váratlanul Narnia havas tájain találja magát. A csodálatos országot törpök, faunok, kentaurok és más különféle mesebeli lények népesítik be. Békés földjük azonban az örök tél, a jég és a fagy fogságában vergődik, a gonosz fehér boszorkány elátkozta őket. A legenda szerint négy gyerek hozza majd el a szabadulást számukra.",
+      "poster" : "narnia_episode_1_poster.jpg",
+      "hero_image" : "narnia_episode_1_hero.jpg"
+    },
+  
+    {
+      "title" : "Narnia krónikái: Caspian herceg",
+      "episode_number" : "2",
+      "year" : "2008",
+      "duration" : "150",
+      "main_characters" : ["Peter Pevensie", "Susan Pevensie", "Edmund Pevensie", "Lucy Pevensie", "Caspian herceg", "Nikabrik", "Trumpkin", "Aslan"],
+      "description" : "A négy Pevensie gyermek egy esztendő elteltével visszatér arra a helyre, amelyet szeretnek. Meglepődve tapasztalják, hogy Narniában ezerháromszáz év telt el azóta, hogy itt jártak. A birodalom aranykora véget ért, a világot most a telmarinok uralják. A kegyetlen Miraz király Caspian herceg helyett a saját fiát akarja a trónra ültetni. A jogos trónörökös által vezetett lázadók szeretnék visszaállítani a rendet. A régi és új barátai oldalán Peter és testvérei is harcba szállnak, hogy visszaállítsák a birodalom régi fényét és dicsőségét.",
+      "poster" : "narnia_episode_2_poster.jpg",
+      "hero_image" : "narnia_episode_2_hero.jpg"
+    },
+  
+    {
+      "title" : "Narnia krónikái: A Hajnalvándor útja",
+      "episode_number" : "3",
+      "year" : "2010",
+      "duration" : "113",
+      "main_characters" : ["Lucy Pevensie", "Edmund Pevensie", "Caspian herceg", "Eustace Scrubb", "Lilliandil", "Fehér boszorkány", "Rhince", "Tavros", "Aslan"],
+      "description" : "A két legfiatalabb Pevensie-testvér a távoli rokonuknál lakik Cambridge mellett. Lucy és Edmund számára a legnagyobb nehézséget az unokatestvérük, Eustace elviselése jelenti. Amikor egy nap a három fiatal megáll a különös vitorlást ábrázoló festmény előtt, hihetetlen dolog történik: a kép megelevenedik, és ők a tengerben találják magukat. A Hajnalvándor legénysége menti ki őket. Caspian királytól megtudják, hogy Narniát egy zöld köd fenyegeti. A halálos veszélyt csak úgy győzhetik le, ha összegyűjtik a hét kardot, melyeket Aslan adott a lordoknak.",
+      "poster" : "narnia_episode_3_poster.jpg",
+      "hero_image" : "narnia_episode_3_hero.jpg"
+    }]
+  }
